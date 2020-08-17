@@ -1,14 +1,14 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "jygao-blog",
+    "title": "Jygao Blog",
+    "author": "jygao <yungaojiang@gmail.com>",
     "version": "1.8.2",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://jygao.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/jygao/jygao.github.io"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/jygao/jygao.github.io/issues",
     "devDependencies": {
         "grunt": "^1.1.0",
         "grunt-banner": "~0.2.3",
@@ -17,7 +17,7 @@
         "grunt-contrib-watch": "^1.1.0"
     },
     "scripts": {
-        "start": "bundle exec jekyll serve -w -l --host 0.0.0.0",
+        "start": "bundle exec jekyll serve -w -l --trace --host 127.0.0.1",
         "dev": "grunt watch & npm run start",
         "boil": "git push boilerplate boilerplate:master",
         "push": "git push origin master --tag"
