@@ -2,9 +2,7 @@
 layout: page
 description: "撷取美的浪花"
 ---
-<!--{% assign relatedCount = 0 %}-->
 {% for post in site.categories.poem %}
-<!--{% assign relatedCount = relatedCount | plus: 1 %}-->
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
@@ -28,10 +26,6 @@ description: "撷取美的浪花"
     </p>
 </div>
 <hr>
-
-<!--{% if relatedCount == 3 %}-->
-<!--{% break %}-->
-<!--{% endif %}-->
 
 {% endfor %}
 
