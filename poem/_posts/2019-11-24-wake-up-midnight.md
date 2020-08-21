@@ -4,7 +4,6 @@ title: 半夜醒时
 date: 2019-11-24 16:02
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

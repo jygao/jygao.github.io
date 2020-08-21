@@ -4,7 +4,6 @@ title: Everything使用技巧总结
 date: 2019-04-21 10:39
 author: jygao
 comments: true
-categories: [technology]
 tags:
     - tools
 ---

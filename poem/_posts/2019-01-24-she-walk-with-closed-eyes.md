@@ -4,7 +4,6 @@ title: 她闭着眼睛走路
 date: 2019-01-24 11:33
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

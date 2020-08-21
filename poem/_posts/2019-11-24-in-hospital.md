@@ -4,7 +4,6 @@ title: 住院
 date: 2019-11-24 12:24
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

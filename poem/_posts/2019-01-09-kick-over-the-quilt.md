@@ -4,7 +4,6 @@ title: 踢翻被子
 date: 2019-01-09 10:41
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

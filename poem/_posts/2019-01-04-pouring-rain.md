@@ -4,7 +4,6 @@ title: 暴雨
 date: 2019-01-04 03:06
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

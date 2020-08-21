@@ -4,7 +4,6 @@ title: 当今世界
 date: 2019-01-05 21:52
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

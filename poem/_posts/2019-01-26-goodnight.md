@@ -4,7 +4,6 @@ title: 晚安
 date: 2019-01-26 11:32
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

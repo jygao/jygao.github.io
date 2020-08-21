@@ -4,7 +4,6 @@ title: 三月的夜晚
 date: 2018-12-27 13:09
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

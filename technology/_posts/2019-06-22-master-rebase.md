@@ -4,7 +4,6 @@ title: 熟练掌握Rebase
 date: 2019-06-22 21:44
 author: jygao
 comments: true
-categories: [technology]
 tags:
     - git
 ---

@@ -4,7 +4,6 @@ title: 太阳与五十块
 date: 2019-01-12 10:59
 author: jygao
 comments: true
-categories: [poem]
 tags:
     - 现代诗
 ---

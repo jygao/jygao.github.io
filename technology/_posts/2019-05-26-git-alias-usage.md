@@ -4,7 +4,6 @@ title: git alias 使用总结
 date: 2019-05-26 21:05
 author: jygao
 comments: true
-categories: [technology]
 tags:
     - git
 ---
