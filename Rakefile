@@ -10,7 +10,7 @@ CONFIG = {
   'themes' => File.join(SOURCE, "_includes", "themes"),
   'layouts' => File.join(SOURCE, "_layouts"),
   'includes' => File.join(SOURCE, "_includes"),
-  'posts' => File.join(SOURCE, "_posts"),
+  'posts' => File.join(SOURCE, "technology/_posts"),
   'post_ext' => "md",
   'theme_package_version' => "0.1.0"
 }
