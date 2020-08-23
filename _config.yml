@@ -79,7 +79,7 @@ ga_domain: jiangyungao.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "成为更好的自己"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-jygao-300x300.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
