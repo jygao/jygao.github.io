@@ -15,7 +15,9 @@ tags:
 
 ## 引言
 我听着Beyond的歌长大，小时候听只是觉得好听，长大了才慢慢懂得各种所唱。我今天说的是Beyond的这首《长城》，话不多说，先致敬Beyond:
-<iframe width="960" height="540" src="https://flv2.bn.netease.com/5e7e1d73ad0d13589cd8cd888364f71ef2d1e322a60355403e7a105f16d9c04fe252a7825547ee9b2cbfc7ce32d7f6318bffb5beba57be44b93458173086d0d994543555163e7a181f86c21030b3e6032161e8611d0242b26f4096d5d6ed1e6c996a49a2021f4ff4969408835785bcc18a1f6a8307433afc.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="640" height="360" src="https://flv2.bn.netease.com/5e7e1d73ad0d13589cd8cd888364f71ef2d1e322a60355403e7a105f16d9c04fe252a7825547ee9b2cbfc7ce32d7f6318bffb5beba57be44b93458173086d0d994543555163e7a181f86c21030b3e6032161e8611d0242b26f4096d5d6ed1e6c996a49a2021f4ff4969408835785bcc18a1f6a8307433afc.mp4" controls="controls" poster="">
+your browser does not support the  HTML5 Video element
+</video>
 
 ## 赏析
 长城这首歌由黄家驹作曲，刘卓辉作词，听来给我一种对历史的慨叹，对中华民族的一种自省。长城，它保护了我们，又禁锢了我们；它是我们的荣耀，更是我们的伤疤。我们来看歌词:
