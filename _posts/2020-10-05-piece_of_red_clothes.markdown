@@ -16,11 +16,11 @@ tags:
 ##  一块红布
 
 这次给大家推荐介绍的是崔健的《一块红布》，话不多说，先上个现场演唱会的视频：
-<video src="https://vd3.bdstatic.com/mda-jkhx36xak8q81w2u/mda-jkhx36xak8q81w2u.mp4" controls="controls" poster="">
+<video width="640" height="360" src="https://vd3.bdstatic.com/mda-jkhx36xak8q81w2u/mda-jkhx36xak8q81w2u.mp4" controls="controls" poster="">
 your browser does not support the  HTML5 Video element
 </video>
-
 ## 赏析
+
 我们先来看第一段：
 >那天是你用一块红布    
 蒙住我双眼也蒙住了天    
