@@ -16,9 +16,17 @@ tags:
 ##  一块红布
 
 这次给大家推荐介绍的是崔健的《一块红布》，话不多说，先上个现场演唱会的视频：
-<video width="640" height="360" src="https://vd3.bdstatic.com/mda-jkhx36xak8q81w2u/mda-jkhx36xak8q81w2u.mp4" controls="controls" poster="">
-your browser does not support the  HTML5 Video element
-</video>
+g
+<div class="embed-container">
+  <iframe
+      src="https://vd3.bdstatic.com/mda-jkhx36xak8q81w2u/mda-jkhx36xak8q81w2u.mp4"
+      width="640"
+      height="360"
+      frameborder="0"
+      allowfullscreen="1">
+  </iframe>
+</div>
+
 ## 赏析
 
 我们先来看第一段：
